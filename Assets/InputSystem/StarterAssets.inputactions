@@ -261,30 +261,30 @@
                 },
                 {
                     "name": "",
-                    "id": "48d37b0b-35ca-45af-8968-5bd05e04367c",
-                    "path": "<SwitchProControllerHID>/rightStickPress",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Zoom",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "cd1feeed-3268-4210-92c4-a31eeaa6365a",
-                    "path": "<SwitchProControllerHID>/rightStickPress",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Zoom",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "93ad4661-0a3a-41bb-b3f6-026114aac4ab",
                     "path": "<Keyboard>/rightShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Zoom",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bf145bc9-4aa4-4f09-87a1-5fab10b8d037",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Zoom",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "349d2987-8021-4e4e-b5c5-22d0c5e59d27",
+                    "path": "<SwitchProControllerHID>/rightTrigger",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
